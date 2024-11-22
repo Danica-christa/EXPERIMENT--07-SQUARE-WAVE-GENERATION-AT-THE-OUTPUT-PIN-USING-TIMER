@@ -223,7 +223,7 @@ FOR PULSE AT 500
 
 ![image](https://github.com/user-attachments/assets/b47622ef-f297-4fd6-a147-a5c9f18401e5)
 
-
+```
 TON = 3 x 10 x 10^-6
     = 0.00003
 TOFF=0.00003
@@ -238,13 +238,13 @@ DUTY CYCLE = TON /(TON+TOFF)
            = 0.5
       IN % =0.5*100 
            = 50 %
-
+```
 
 FOR PULSE AT 700
 
 ![image](https://github.com/user-attachments/assets/f688c8f8-59f7-4256-9363-08a534994737)
 
-
+```
 TON = 4 x 10 x 10^-6
     = 0.00004
 TOFF= 2 x 10 x 10^-6
@@ -260,12 +260,12 @@ DUTY CYCLE = TON /(TON+TOFF)
       IN % =0.7*100 
            = 70 %
 
-
+```
 FOR PULSE AT 900
 
 ![image](https://github.com/user-attachments/assets/968a9bdf-ed38-4302-afa0-4a1765dc4121)
 
-
+```
 TON = 1 x 50 x 10^-6
    = 0.00005
 TOFF= 0.1 x 50 x 10^-6
@@ -281,7 +281,7 @@ DUTY CYCLE = TON /(TON+TOFF)
      IN % =0.9*100 
           = 90 %
 
-
+```
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
